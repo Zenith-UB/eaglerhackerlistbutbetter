@@ -1,6 +1,7 @@
 # EaglerCraft Client Selector
+(Made by BurnedPopcorn180)
 
-https://burnedpopcorn.github.io/Client_Select.html
+https://Zenith-UB.github.io/Client_Select.html
 
 A website that hosts and provides many vanilla and modified EaglerCraft Clients with a clean UI, and a 1.8 server list
 
